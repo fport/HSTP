@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/cagataycali/hstp#readme",
   "dependencies": {
-    "node-tcp-proxy": "0.0.27"
+    "node-tcp-proxy": "0.0.28"
   }
 }
